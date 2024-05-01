@@ -1,5 +1,8 @@
 /* Declare variables below to save the different sections (divs) of your story*/
-
+let story =document.querySelector(".story-opening");
+let op1but =document.querySelector(".option-one");
+let op2but =document.querySelector(".option-two");
+let op1 =document.querySelector(".option-one-screen");
 
 
 
